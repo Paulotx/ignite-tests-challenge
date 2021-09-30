@@ -1,6 +1,6 @@
 {
   "username": "docker",
-  "password": "ignite",
+  "password": "fin_api",
 
   "name": "default",
   "type": "postgres",

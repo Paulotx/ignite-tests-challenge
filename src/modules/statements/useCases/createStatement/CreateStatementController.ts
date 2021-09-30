@@ -25,6 +25,8 @@ export class CreateStatementController {
       description
     });
 
+    console.log("AQUIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII");
+
     return response.status(201).json(statement);
   }
 }
